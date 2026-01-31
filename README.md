@@ -32,7 +32,7 @@
 ![Nettoyage des données brutes](https://github.com/AzizivanCoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/blob/c65ccb32c8211001890bcd3ff88ebf8a807e5114/Nettoyage%20%26%20transformation%20%26%20combinaison%20des%20fichiers.JPG)
  ---
 ![Nettoyage pays-continent](
-https://raw.githubusercontent.com/azizivancoulibaly.github.io/BI-Data-Visualisation-Analyse-de-ventes-/Images/Nettoyage%20table%20pays-continent.JPG)
+https://raw.githubusercontent.com/azizivancoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/Images/Nettoyage%20table%20pays-continent.JPG)
 
 
 
