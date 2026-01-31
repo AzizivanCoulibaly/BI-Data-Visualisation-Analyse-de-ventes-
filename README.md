@@ -34,10 +34,6 @@
 ![Nettoyage pays-continent](
 https://raw.githubusercontent.com/azizivancoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/Images/Nettoyage%20table%20pays-continent.JPG)
 
-<img src="https://raw.githubusercontent.com/AzizivanCoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/main/Images/Nettoyage%20table%20pays-continent.JPG" alt="Nettoyage pays-continent" />
-
-
-
 **Chargement dans Power Pivot**  
 - Les données ( 4M de lignes) sont **chargées uniquement en connexion** puis ** Ajouter au modèle de donnée* pour éviter de saturer Excel  
 - Les tables utilisées dans le modèle :  
