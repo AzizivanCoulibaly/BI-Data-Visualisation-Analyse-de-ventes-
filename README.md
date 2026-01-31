@@ -31,7 +31,10 @@
  ---
 ![Nettoyage des données brutes](https://github.com/AzizivanCoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/blob/c65ccb32c8211001890bcd3ff88ebf8a807e5114/Nettoyage%20%26%20transformation%20%26%20combinaison%20des%20fichiers.JPG)
  ---
-![Nettoyage pays-continent](https://github.com/AzizivanCoulibaly/BI-Data-Visualisation-Analyse-de-ventes-/blob/053d8eb10e681aebde26094b3892d0eee640fa53/Images/Nettoyage%20table%20pays-continent.JPG)
+![Nettoyage pays-continent](
+https://azizivancoulibaly.github.io/BI-Data-Visualisation-Analyse-de-ventes-/Nettoyage%20%26%20transformation%20%26%20combinaison%20des%20fichiers.JPG
+)
+
 
 **Chargement dans Power Pivot**  
 - Les données ( 4M de lignes) sont **chargées uniquement en connexion** puis ** Ajouter au modèle de donnée* pour éviter de saturer Excel  
